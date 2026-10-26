@@ -216,3 +216,39 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# ==================================
+# Field Service AI
+# ==================================
+
+# Frontend (React / Vite)
+node_modules/
+dist/
+.vite/
+
+# Environment variables
+.env.*
+!.env.example
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary audio recordings
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.aiff
+
+# macOS
+.DS_Store
+
+# Local model files
+*.gguf
+*.safetensors
+
