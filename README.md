@@ -8,10 +8,9 @@ Instead of manually writing reports after each customer visit, technicians can u
 
 ## 🎥 Demo
 
-Watch Field Service AI in action — from audio transcription
-to AI-generated work orders and PDF export.
+See Field Service AI in action — from audio transcription to AI-generated work orders and PDF export.
 
-▶️ [Watch the demo video](https://github.com/hindbaroudii/field-service-ai/releases/download/v1.0.0/final-demo.mov)
+![Field Service AI Demo](assets/demo.gif)
 
 ## Features
 
