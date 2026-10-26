@@ -6,6 +6,13 @@ Field Service AI is a full-stack application that helps field service technician
 
 Instead of manually writing reports after each customer visit, technicians can upload an audio file or record a service update directly in the browser. The application transcribes the audio and uses a local language model to extract relevant information into a professional work order.
 
+## 🎥 Demo
+
+Watch Field Service AI in action — from audio transcription
+to AI-generated work orders and PDF export.
+
+▶️ [Watch the demo video](https://github.com/hindbaroudii/field-service-ai/releases/download/v1.0.0/final-demo.mov)
+
 ## Features
 
 - **Audio recording and upload** — Record service notes directly in the browser or upload an existing audio file.
